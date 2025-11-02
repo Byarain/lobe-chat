@@ -10,7 +10,7 @@
     "@lobechat/model-runtime": "workspace:*",
     "@lobechat/prompts": "workspace:*",
     "dotenv": "^16.4.7",
-    "ora": "^8.2.0"
+    "ora": "^9.0.0"
   },
   "devDependencies": {
     "tsx": "^4.19.2"
